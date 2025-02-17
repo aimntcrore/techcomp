@@ -131,12 +131,10 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: פריסת תשתיות אינטרנט
-        text: |+
-          התקנה של כבלים ונקודות בקיר, בדיקת תקלות רשת.
+        text: |
+          התקנה של כבלים ונקודות בקיר,
 
-
-
-
+          בדיקת תקלות רשת
         image:
           url: /images/icon3.svg
           altText: Featured icon three
