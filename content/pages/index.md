@@ -194,8 +194,7 @@ sections:
       - url: /images/668d062d7cda03339e4473e2d8875896.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/2581197540ad909457004c2d879acbd9.png
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
