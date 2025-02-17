@@ -104,10 +104,12 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: מכירה ותיקונים
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          לכל סוגי המכשירים – פלאפונים, מחשבים ניידים, נייחים, מדפסות.
+
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
