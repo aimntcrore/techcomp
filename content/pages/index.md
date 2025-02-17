@@ -190,9 +190,6 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-      - url: /images/2581197540ad909457004c2d879acbd9.png
-        altText: Contentful logo
-        type: ImageBlock
       - altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
