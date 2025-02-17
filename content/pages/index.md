@@ -200,7 +200,8 @@ sections:
       - url: /images/2581197540ad909457004c2d879acbd9.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: >-
+          /images/kisspng-laptop-acer-aspire-predator-desktop-computers-5b31221c5b9b91.5633062615299466523752.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
