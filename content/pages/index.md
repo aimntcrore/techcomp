@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: תמיכה טכנית וטיפול בתקלות
+      text: אצלנו הלקוח מעל הכל
       color: text-dark
       type: TitleBlock
     subtitle: תמיכה טכנית וטיפול בתקלות
