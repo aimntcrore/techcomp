@@ -74,10 +74,12 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: תמיכה טכנית
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          פתרונות לבעיות חומרה ותוכנה.
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
